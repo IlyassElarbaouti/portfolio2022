@@ -11,7 +11,7 @@ import Footer from "./components/footer/Footer";
 const App = () => {
   return (
     <div className="app">
-      {/* <Loader /> */}
+      <Loader />
       <Header />
       <Main />
       <Social marginTop="100px" width="30vh" size="17px" />
