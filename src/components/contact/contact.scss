@@ -1,0 +1,45 @@
+.contact {
+    font-family: 'Circumar Std' ,sans-serif;
+  width: 100vw;
+  color: #C4C4C4;
+  &__first {
+    background-color: #060810;
+    padding: 6rem 3rem;
+  }
+  &__heading{
+font-size: 4em;
+  }
+  &__title {
+      margin: 3rem 0;
+      font-family: 'Mark pro',sans-serif;
+    
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      from(#b0f3f1),
+      to(#ffcfdf)
+    );
+    background-image: -webkit-linear-gradient(left, #b0f3f1, #ffcfdf);
+    background-image: -moz-linear-gradient(left, #b0f3f1, #ffcfdf);
+    background-image: linear-gradient(90deg, #b0f3f1, #ffcfdf);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  }
+   &__description{
+     font-size: 2em;
+ }
+ &____connect{
+     font-size: 2em;
+     margin-left: 1rem;
+ }
+ &__second{
+         padding: 6rem 3rem;
+ }
+ &__link{
+     color: white;
+     font-weight: 900;
+ }
+}

@@ -1,0 +1,19 @@
+.footer{
+    height: 40px;
+    align-items: center;
+    border-top: 1px;
+    color: #c4c4c4;
+    padding:10px 5vw;
+    width: 90vw;
+    border-top:hsla(0,0%,76.9%,.25) 1px solid;
+    margin-top: 70px;
+    display:flex;
+    justify-content: space-between;
+    &__github{
+        font-size: 30px;
+    }
+    &__name{
+        font-size: 10px;
+    }
+
+}

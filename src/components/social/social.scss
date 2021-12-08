@@ -1,0 +1,13 @@
+.social{
+    color:white;
+    margin-left: 7vw;
+    &__list{
+        justify-content: space-between;
+        display:flex;
+        list-style: none;
+        text-decoration: none;
+    }
+    &__link a {
+        color: white;
+    }
+}
