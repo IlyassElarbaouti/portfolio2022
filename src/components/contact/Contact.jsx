@@ -23,7 +23,7 @@ const Contact = () => {
         </div>
         <div className="contact__second">
           <h1 className="contact__heading">
-            <span className="contact__title">Dont be a stranger! </span>👋
+            <span className="contact__title">Let's Talk! </span>👋
           </h1>
           <p className="contact__connect">Connect with me online 👇</p>
         </div>
