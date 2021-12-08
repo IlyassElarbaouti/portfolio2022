@@ -4,7 +4,7 @@ import "./header.scss";
 const Header = () => {
   return (
     <header className="header">
-      <a href="#e" className="header__left">
+      <a href="#main" className="header__left">
         <span className="header__left_logo">👋🏻</span>
         <span className="header__left_name">ILYASS ELARBAOUTI</span>
       </a>
