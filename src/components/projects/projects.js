@@ -1,6 +1,7 @@
 export const projects = [
 
     {
+        ID:1,
         name:'Startup Layout',
         techs:'HTML5 ,SASS ,RESONSIVE DESIGN ,MOBILE FIRST',
         github:'https://github.com/IlyassElarbaouti/website-responsive',
@@ -10,6 +11,7 @@ export const projects = [
         img2:'../projects/imgs/imgs/studua.png'
     },
     {
+        ID:2,
         name:'Studua',
         techs:'HTML5 ,SASS/LESS ,RESONSIVE DESIGN ,MOBILE FIRST',
         github:'https://github.com/IlyassElarbaouti/studuatest1',
@@ -19,6 +21,7 @@ export const projects = [
         img2:'../projects/imgs/imgs/startupLayout.png',
     },
     {
+        ID:3,
         name:'Calendar Project',
         techs:'REACT/REDUX ,SASS ,REACT HOOKS',
         github:'https://github.com/IlyassElarbaouti/calendar',

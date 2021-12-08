@@ -13,7 +13,7 @@ const Projects = () => {
         </p>
         <div className="projects__projectCard-container">
           {projects.map((project) => (
-            <ProjectCard project={project} />
+            <ProjectCard key={project.ID} project={project} />
           ))}
         </div>
       </div>

@@ -9,7 +9,7 @@ const Loader = () => {
             <span className="loader__logo">💻</span>
             <ul className="loader__techs">
               {techs.map((tech) => (
-                <li className="loader__tech">{tech}</li>
+                <li key={techs.indexOf(tech)} className="loader__tech">{tech}</li>
               ))}
             </ul>
           </div>

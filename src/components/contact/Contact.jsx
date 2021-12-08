@@ -11,7 +11,7 @@ const Contact = () => {
             Thanks for stopping by, I’m currently looking to join a new team of
             creative designers and developers. If you think we might be a good
             fit for one another, give me a
-            <a href="tel:123-456-7890">
+            <a href="tel:+380955-977-532">
               <span className="contact__link"> call </span>
             </a>
             🇺🇦 or send me an

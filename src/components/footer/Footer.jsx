@@ -6,7 +6,9 @@ const Footer = () => {
     return (
       <div className="footer">
         <span className="footer__name">ILYASS ELARBAOUTI</span>
-        <FontAwesomeIcon className="footer__github"  icon={faGithubAlt}/>
+        <a target='_blank' href="https://github.com/IlyassElarbaouti/portfolio2022" rel="noreferrer">
+          <FontAwesomeIcon className="footer__github" icon={faGithubAlt} />
+        </a>
       </div>
     );
 }
