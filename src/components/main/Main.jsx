@@ -2,7 +2,7 @@ import React from "react";
 import "./main.scss";
 const Main = () => {
   return (
-    <main className="main">
+    <main id='main' className="main">
       <div className="main__hero">
         <div className="main__hero_heading">
           <span>turning ideas into </span>

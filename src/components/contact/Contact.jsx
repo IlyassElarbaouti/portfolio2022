@@ -25,7 +25,7 @@ const Contact = () => {
           <h1 className="contact__heading">
             <span className="contact__title">Dont be a stranger! </span>👋
           </h1>
-          <p className="contact__connect">Connect with me online</p>
+          <p className="contact__connect">Connect with me online 👇</p>
         </div>
       </div>
     );
